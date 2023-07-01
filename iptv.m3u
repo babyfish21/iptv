@@ -4,9 +4,9 @@
 #EXT-X-SUB-URL https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="IPV6",凤凰中文
-https://pull-l3-cny.douyincdn.com/live/YesLiveTV-28e0cc33-d0b0-484a-b74a-09931c03a2c4.m3u8
+http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="IPV6",凤凰资讯
-http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
+http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 #EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://epg.112114.xyz/logo/北京生活.png" group-title="IPV6",北京生活
 http://qnap.yjnhome.com:4000/udp/239.3.1.117:8000
 #EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png" group-title="IPV6",北京文艺
