@@ -105,6 +105,25 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8?accounti
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="北京",北京国际
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/index.m3u8?accountinfo=OMDVq6b4lEslJm1UnEjrD67bT+dBi/stmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe+RE99EyWRk+/h2ZwKe1xeNgD5Kl8Atu9oWmG1uEVrhyTXIuFRsiICwHJAHtyw==,,END
 
+#EXTINF:-1 tvg-id="30" tvg-name="btv" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="北京时间", 北京冬奥纪实
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s6/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="btv" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="北京卫视", 北京卫视
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="btv" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="北京影视", 北京影视
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="btv" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="北京新闻", 北京新闻
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="btv" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="北京生活", 北京生活
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="btv" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="北京财经", 北京财经
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="btv" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="北京青年", 北京青年
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s8/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="btv" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="北京文艺", 北京文艺
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="btv" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="北京科教", 北京科教
+http://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8
+
 #EXTINF:-1 tvg-id="164" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="LocalTVHD",上海纪实人文
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTVHD",北京冬奥纪实
