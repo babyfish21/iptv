@@ -13,9 +13,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="LocalTV",凤凰卫视中文台
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226547/index.m3u8
 
-#EXTINF:-1 group-title="国际频道",法·时尚
+#EXTINF:-1 tvg-name="法·时尚" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="国际",法·时尚
 http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-#EXTINF:-1 group-title="测试频道",法·时尚
+#EXTINF:-1 tvg-name="法·时尚" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="国际频道",法·时尚
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://epg.112114.xyz/logo/台视新闻.png" group-title="国际",台视新闻
