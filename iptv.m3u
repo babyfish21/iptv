@@ -263,8 +263,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226243/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTV",京视剧场
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="LocalTV",上海哈哈炫动
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",AdultIPTV.net Live Cams
 http://live.adultiptv.net/livecams.m3u8
